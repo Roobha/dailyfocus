@@ -155,6 +155,12 @@ We will use:
 
 ---
 
+## 📐 System Architecture
+
+![Architecture Diagram](architecture.png)
+
+---
+
 ## 📱 APK Download
 
 Download the working APK from the link below:
