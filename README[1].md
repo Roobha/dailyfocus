@@ -157,7 +157,7 @@ We will use:
 
 ## 👤 Developer
 
-Built with ❤️ by [Roobha]
+Built with ❤️ by [Roobha](https://github.com/Roobha)
 
 ---
 
