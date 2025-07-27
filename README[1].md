@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="assets/icon/dailyfocus.jpg" alt="DailyFocus Logo" width="200"/>
+</p>
+
+# DailyFocus 🧠📅  
+Organize your tasks. Stay focused. Sync with the cloud.
+
+
 # 📝 DailyFocus - Todo Task Manager (Flutter + Firebase + Hive)
 
 **DailyFocus** is a cross-platform Todo Task Management app built using **Flutter**, with support for **Google Sign-In**, **offline access**, and **Firestore sync**.
