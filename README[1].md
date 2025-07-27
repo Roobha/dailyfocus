@@ -169,6 +169,13 @@ Download the working APK from the link below:
 
 ---
 
+## 📺 Demo Video Walkthrough
+
+Watch the complete app walkthrough and explanation:  
+👉 [Loom Video Demo – DailyFocus](https://www.loom.com/share/3183869c91f448cfa275ae64c112f50f?sid=bf20a5be-d993-49c4-8759-198113dbfcf8)
+
+---
+
 ## 👤 Developer
 
 Built with ❤️ by [Roobha](https://github.com/Roobha)
