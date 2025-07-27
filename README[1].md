@@ -149,7 +149,7 @@ We will use:
 
 ## 👤 Developer
 
-Built with ❤️ by [Mahesh]
+Built with ❤️ by [Roobha]
 
 ---
 
