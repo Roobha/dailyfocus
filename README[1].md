@@ -155,6 +155,14 @@ We will use:
 
 ---
 
+## 📱 APK Download
+
+Download the working APK from the link below:
+
+➡️ [Download DailyFocus APK](https://drive.google.com/file/d/1wjtwapNLJdV6yasnScB-3vURUHhOVbT6/view?usp=sharing)
+
+---
+
 ## 👤 Developer
 
 Built with ❤️ by [Roobha](https://github.com/Roobha)
